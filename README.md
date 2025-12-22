@@ -7,11 +7,25 @@
 
 ## About Me
 
-I'm a **Mechatronics Engineering student** at the Universidad Veracruzana.
 
-My current areas of focus are:
+**Mechatronics Engineering student** at the Universidad Veracruzana.
+//Descripcion
+
+Current areas of focus:
+
 - Machine Learning
 - Embedded Systems
 
-Because of that, my knowledge is primarily based on **C, C++, and Python**.
 
+<h2 align="center">Tech Stack</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+
+IDE's
+
+
+Just a guy who loves his computer
