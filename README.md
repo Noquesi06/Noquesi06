@@ -22,7 +22,7 @@ Current areas of focus:
     <td>
       <img alt="Tech Stack Banner" src="banner_Tech_Stack.gif" width="200">
     </td>
-      These are the environments in which I have worked :p
+      These are the environments in which I've done some university works :p
    <td>    
     <ul>
       <li>Linux (Ubuntu)</li>
@@ -69,5 +69,10 @@ Current areas of focus:
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noquesi06&layout=compact&theme=vision-glow" height="170" />
+</div>
 
 Just a guy who loves his computer
