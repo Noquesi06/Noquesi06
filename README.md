@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Imagen_Fondo.jpg" alt="Noquesi06 Banner Image" width="70%">
+  <img src="./Imagen_Fondo.jpg" alt="itsSuwy Banner Image" width="70%">
   <h1 align="center">
     <i>Diego V. | itsSuwy</i>
   </h1>
@@ -10,7 +10,7 @@
 
 **Mechatronics Engineering student** at the Universidad Veracruzana.
 
-I like to implement my programing skill to differents projects with ESP32 and Arduino.
+I like to implement my programing skills to different projects with ESP32 and Arduino.
 
 My current areas of focus:
 - Machine Learning
@@ -74,7 +74,7 @@ My current areas of focus:
 
 <h2 align="center">Statistics</h2> 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noquesi06&show_icons=true&theme=vision-glow&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsSuwy&show_icons=true&theme=vision-glow&count_private=true" height="170" />
   <br><br>
 </div>
 
