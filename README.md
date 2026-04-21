@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./Imagen_Fondo.jpg" alt="itsSuwy Banner Image" width="70%">
   <h1 align="center">
     <i>Diego V. | itsSuwy</i>
   </h1>
