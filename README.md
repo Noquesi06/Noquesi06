@@ -78,7 +78,7 @@ My current areas of focus:
 </div>
 
 <div align="center">
-I use Arch, btw
+Did I told you I use Arch, btw?
 </div>
 
 <h2 align="center">Personal information</h2>
