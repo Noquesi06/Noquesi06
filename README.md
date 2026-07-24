@@ -1,97 +1,40 @@
-<div align="center">
-  <h1 align="center">
-    <i>Diego V. | itsSuwy</i>
-  </h1>
-</div>
+## Main Focus
 
-## About Me
+- **Embedded Linux** | Yocto Project
+- **Edge AI / TinyML** | Jetson & Arduino UNO Q
+- **Rust on microcontrollers** | std & no_std
+- **IoT systems** From sensor to network
+---
+### Featured Projects
 
-
-**Mechatronics Engineering student** at the Universidad Veracruzana.
-
-I like to implement my programing skills to different projects with ESP32 and Arduino.
-
-My current areas of focus:
-- Machine Learning
-- Embedded Systems
-
-
-<h2 align="center">Tech Stack</h2> 
-<h3 align="left">Languages</h3> 
 <table>
   <tr>
+    <td width="140"><img src="https://healthy.thewom.it/content/uploads/sites/5/2017/08/radiografia.jpg" width="120"/></td>
     <td>
-      <img alt="Tech Stack Banner" src="banner_Tech_Stack.gif" width="200">
-    </td>
-      These are the environments I'm used to working in :p.
-   <td>    
-    <ul>
-      <li>Linux (Arch/Ubuntu/Fedora)</li>
-      <li><b>Python</b></li>
-      <li><b>C</b></li>
-      <li><b>C++</b></li>
-      <li><b>Espressif</b></li>
-      <li><b>Arduino</b></li>
-      <li>Conda</li>
-       </ul>
-     </td>
-    </tr>
-  </table>
-<h3 align="left">IDE's</h3>
-<p>
-  Since I don't have a "special" IDE, I normally prefer <b>JetBrains</b>. However, I am comfortable using any environment like Sublime Text, VS Code, or even Notepad++.
-</p>
-
-<table border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td valign="center">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="40" />
-    </td>
-    <td valign="center">
-      <b>PyCharm:</b> For Python projects such as Machine Learning, Django, and data analysis.
+      <b><a href="https://github.com/itsSuwy/ai-chest-xray-anomaly-detection">Vena</a></b><br>
+      Transfer learning applied to X-ray anomaly detection in a medical context. Built during the 2025 Samsung Innovation Campus.
     </td>
   </tr>
-  
   <tr>
-    <td valign="center">
-      <img src="https://skillicons.dev/icons?i=clion" width="40" />
-    </td>
-    <td valign="center">
-      <b>CLion:</b> For work involving C, C++, and C#. It is my main tool for <b>Espressif (ESP32)</b> development.
+    <td width="140"><img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" width="120"/></td>
+    <td>
+      <b><a href="https://github.com/itsSuwy/esp32-rust-lab">esp32-rust-lab</a></b><br>
+      A growing series of IoT projects in Rust, from blinking an LED to LoRa mesh communication. Currently active std today, no_std coming next.
     </td>
   </tr>
-
   <tr>
-    <td valign="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
-    </td>
-    <td valign="center">
-      <b>Visual Studio Code:</b> Used for quick edits or situational tasks.
+    <td width="140"><img src="https://img.icons8.com/fluency/96/graph.png" width="120"/></td>
+    <td>
+      <b><a href="https://github.com/itsSuwy/low-level-nlp">low-level-nlp</a></b><br>
+      NLP from scratch in C. Parses books into a knowledge graph and generates coherent sentences using Dijkstra's algorithm to traverse it.
     </td>
   </tr>
 </table>
 
-<h2 align="center">Statistics</h2> 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsSuwy&show_icons=true&theme=vision-glow&count_private=true" height="170" />
-  <br><br>
-</div>
+---
 
-<div align="center">
-Did I told you I use Arch, btw?
-</div>
+### Stack
 
-<h2 align="center">Personal information</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/diego-velázquez-sánchez-67b415344/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:diego.velazquez.2006@outlook.es">
-    <img src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" width="40" alt="Outlook"/>
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100024180138945" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="40" alt="Facebook"/>
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,python,c,cpp,rust,arduino" />
+</p>
