@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <td width="140"><img src="https://img.icons8.com/fluency/96/graph.png" width="120"/></td>
+    <td width="140"><img src="https://www.grapheverywhere.com/wp-content/uploads/2019/08/image1.png" width="120"/></td>
     <td>
       <b><a href="https://github.com/itsSuwy/low-level-nlp">low-level-nlp</a></b><br>
       NLP from scratch in C. Parses books into a knowledge graph and generates coherent sentences using Dijkstra's algorithm to traverse it.
