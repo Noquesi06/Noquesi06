@@ -1,9 +1,8 @@
-## Main Focus
+## You could find here...
 
 - **Embedded Linux** | Yocto Project
 - **Edge AI / TinyML** | Jetson & Arduino UNO Q
-- **Rust on microcontrollers** | std & no_std
-- **IoT systems** From sensor to network
+- **Rust on IoT systems** | std & no_std | ESP32 & STM32
 ---
 ### Featured Projects
 
