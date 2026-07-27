@@ -1,4 +1,4 @@
-## You could find here...
+## You will find here...
 
 - **Embedded Linux** | Yocto Project
 - **Edge AI / TinyML** | Jetson & Arduino UNO Q
@@ -35,5 +35,5 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,python,c,cpp,rust,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,python,c,cpp,rust,arduino" />
 </p>
