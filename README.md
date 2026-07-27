@@ -10,7 +10,7 @@
   <tr>
     <td width="140"><img src="https://healthy.thewom.it/content/uploads/sites/5/2017/08/radiografia.jpg" width="120"/></td>
     <td>
-      <b><a href="https://github.com/itsSuwy/ai-chest-xray-anomaly-detection">Vena</a></b><br>
+      <b><a href="https://github.com/itsSuwy/vena-chest-xray-ai">Vena</a></b><br>
       Transfer learning applied to X-ray anomaly detection in a medical context. Built during the 2025 Samsung Innovation Campus.
     </td>
   </tr>
