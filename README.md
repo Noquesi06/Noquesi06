@@ -35,5 +35,5 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,python,pytorch,opencv,azure,docker,c,cpp,rust,postgres,git,githubactions,github" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,python,docker,c,cpp,rust,postgres" />
 </p>
